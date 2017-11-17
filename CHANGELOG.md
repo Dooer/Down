@@ -1,5 +1,9 @@
 # Change Log
 
+## [v0.5](https://github.com/Dooer/Down/tree/v0.5) (2017-11-17)
+
+Forked Down, deleted everything except what's needed to convert raw markdown strings to HTML. @mralek
+
 ## [v0.4.2](https://github.com/iwasrobbed/Down/tree/v0.4.2) (2017-10-21)
 [Full Changelog](https://github.com/iwasrobbed/Down/compare/v0.4.1...v0.4.2)
 
